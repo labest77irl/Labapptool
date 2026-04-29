@@ -16,6 +16,11 @@
 
 ## Version History
 
+### V01.09 29.04.26
+
+1. Responsive Layout(grid) re-design
+2. Fix bug, when select text and cursor position lost .
+
 ### 1.08
 <img width="730" height="604" alt="image" src="https://github.com/user-attachments/assets/9e21da98-4670-495c-b976-7132a47b956b" />
 
